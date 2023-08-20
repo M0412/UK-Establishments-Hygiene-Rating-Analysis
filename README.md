@@ -2,10 +2,11 @@
 This porjects consists of three parts which are database and jupyter notebook set up, update the database, and exploratory analyis.
 
 #### Part 1: Database and Jupyter Notebook Set Up
-- Import the data provided in the json file from Terminal.
+- Import the data provided in the json file and create a database in NoSQL
+ from Terminal.
 - Import PyMongo and Pretty Print libraries in Jupyter Notebook.
 - Create an instance of the Mongo Client.
-- Confirm that the database was created and data loaded properly.
+- Confirm that the database was created and data was loaded properly.
 - Assign the establishments collection to a variable to prepare the collection for use.
 
 #### Part 2: Update the Database
