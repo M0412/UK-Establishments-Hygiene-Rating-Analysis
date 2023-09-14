@@ -1,5 +1,5 @@
 ## nosql-challenge
-This porjects consists of three parts which are database and jupyter notebook set up, update the database, and exploratory analyis.
+This project consists of three parts which are database and jupyter notebook set up, update the database, and exploratory analyis.
 
 #### Part 1: Database and Jupyter Notebook Set Up
 - Import the data provided in the json file and create a database in NoSQL
